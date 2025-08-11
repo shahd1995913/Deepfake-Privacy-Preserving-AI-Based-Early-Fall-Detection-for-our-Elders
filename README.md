@@ -12,6 +12,9 @@ The solution integrates:
   Your browser does not support the video tag.
 </video>
 
+[![Watch the video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://github.com/shahd1995913/Deepfake-Privacy-Preserving-AI-Based-Early-Fall-Detection-for-our-Elders/blob/main/(Facial%20Expression%20Recognition%20and%20pose%20estimation/f.mp4))]([https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/shahd1995913/Deepfake-Privacy-Preserving-AI-Based-Early-Fall-Detection-for-our-Elders/blob/main/(Facial%20Expression%20Recognition%20and%20pose%20estimation/f.mp4))
+
+
 2. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
 
 ---
