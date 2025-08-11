@@ -4,15 +4,13 @@
 This repository contains the implementation of an AI-based system designed to **preserve privacy** while performing **early fall detection** for elderly individuals.  
 The system leverages **deepfake-based face replacement techniques** to anonymize personal identities in video feeds, ensuring that privacy is maintained during real-time monitoring and analysis.
 
-The solution integrates:
+The solution integrates:  
 1. **Face Anonymization via Deepfake Technology** – Replacing the detected faces with synthetic, non-identifiable faces while preserving head pose and expressions.
 
-<video width="400" controls>
-  <source src="[https://github.com/yourusername/yourrepo/raw/main/demo.mp4](https://github.com/shahd1995913/Deepfake-Privacy-Preserving-AI-Based-Early-Fall-Detection-for-our-Elders/blob/main/(Facial%20Expression%20Recognition%20and%20pose%20estimation/f.mp4)" type="video/mp4">
+<video width="500" controls>
+  <source src="https://github.com/shahd1995913/Deepfake-Privacy-Preserving-AI-Based-Early-Fall-Detection-for-our-Elders/raw/main/(Facial%20Expression%20Recognition%20and%20pose%20estimation/f.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-
 
 2. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
 
@@ -27,16 +25,16 @@ The solution integrates:
 ---
 
 ## How It Works
-1. **Face Detection**: The system detects faces in the incoming video frames.
-2. **Face Replacement (Deepfake)**: Detected faces are replaced with synthetic faces generated to preserve expressions but anonymize identity.
-3. **Fall Prediction**: Motion features are extracted from the anonymized video and analyzed using the trained fall detection model.
+1. **Face Detection**: The system detects faces in the incoming video frames.  
+2. **Face Replacement (Deepfake)**: Detected faces are replaced with synthetic faces generated to preserve expressions but anonymize identity.  
+3. **Fall Prediction**: Motion features are extracted from the anonymized video and analyzed using the trained fall detection model.  
 4. **Alert Mechanism**: When a fall is detected, the system can trigger alerts to caregivers or connected IoT devices.
 
 ---
 
 ## Applications
-- **Elderly Care Homes**: Monitoring without compromising the dignity and privacy of residents.
-- **In-Home Care Systems**: Assisting family members in ensuring the safety of elderly relatives.
+- **Elderly Care Homes**: Monitoring without compromising the dignity and privacy of residents.  
+- **In-Home Care Systems**: Assisting family members in ensuring the safety of elderly relatives.  
 - **Healthcare Research**: Providing anonymized datasets for developing safer AI monitoring tools.
 
 ---
