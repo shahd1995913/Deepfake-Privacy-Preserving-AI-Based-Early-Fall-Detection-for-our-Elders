@@ -1,7 +1,3 @@
-
-
-
-
 # Deepfake Privacy-Preserving AI-Based Early Fall Detection for Our Elders
 
 ## Overview
@@ -11,6 +7,8 @@ The system leverages **deepfake-based face replacement techniques** to anonymize
 The solution integrates:  
 1. **Face Anonymization via Deepfake Technology** – Replacing the detected faces with synthetic, non-identifiable faces while preserving head pose and expressions.
 
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/ocovPO5uaBY)
 
 2. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
 
