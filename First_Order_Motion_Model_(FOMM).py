@@ -1,10 +1,3 @@
-"widgets": {
-    "application/vnd.jupyter.widget-state+json": {
-        "state": {}
-    }
-}
-
-
 {
   "nbformat": 4,
   "nbformat_minor": 0,
