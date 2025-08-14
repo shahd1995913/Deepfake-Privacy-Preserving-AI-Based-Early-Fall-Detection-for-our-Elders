@@ -9,9 +9,15 @@ The solution integrates:
 
 1. **Face Anonymization via Deepfake Technology** – Replacing the detected faces with synthetic, non-identifiable faces while preserving head pose and expressions.
 
-| Target Image | Source Image | Final Result |
-|--------------|--------------|--------------|
+| Target Image (Original) | Source Image (Features to Transfer) | Final Result (Face Swap) |
+|-------------------------|------------------------------------|---------------------------|
 | <img src="https://github.com/user-attachments/assets/1826e58d-702f-4a86-bf6e-e7aa090cfe01" width="300" height="300" /> | <img src="https://github.com/user-attachments/assets/b602d57f-10ce-41af-b961-1403a139e617" width="300" height="300" /> | <img src="https://github.com/user-attachments/assets/8318969a-9b8d-4046-ade2-948891eac566" width="300" height="300" /> |
+
+<br>
+<!-- https://huggingface.co/spaces/felixrosberg/face-swap
+ -->
+<!-- https://huggingface.co/spaces/felixrosberg/face-swap
+--- -->
 
 2. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
 
