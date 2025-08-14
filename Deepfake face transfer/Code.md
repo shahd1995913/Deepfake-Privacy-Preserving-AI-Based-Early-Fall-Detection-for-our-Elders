@@ -13,3 +13,14 @@ The code is adapted from the original [Google Colab Demo](https://colab.research
 - **Core technology**: Deep learning-based motion transfer using keypoint detection and dense motion prediction.
 
 This implementation is purely for research and educational purposes.
+
+
+## Additional information. There is a built-in model available at [part1](https://huggingface.co/spaces?q=face+swap)
+### and the experiment is now available.   Completed, as seen in the picture: [part2](https://huggingface.co/spaces/felixrosberg/face-swap)
+# Input 
+<img width="490" height="628" alt="image" src="https://github.com/user-attachments/assets/43f99e15-b6d4-49c0-beac-3af4fb39e87c" />
+
+# Output 
+<img width="450" height="347" alt="image" src="https://github.com/user-attachments/assets/ee3a59eb-bbaa-472a-8522-0bff4ed46521" />
+
+
