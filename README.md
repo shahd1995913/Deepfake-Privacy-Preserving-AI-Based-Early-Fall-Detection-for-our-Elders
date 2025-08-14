@@ -53,13 +53,7 @@ The solution integrates:
 
 [![Video Demo](https://user-images.githubusercontent.com/xxxx/video_thumbnail.png)](https://github.com/shahd1995913/Deepfake-Privacy-Preserving-AI-Based-Early-Fall-Detection-for-our-Elders/blob/main/Early%20Fall%20Detection/annotated_output%20(1).mp4)
 
----
 
-## Key Features
-- **Privacy-Preserving Video Processing**: Prevents the exposure of the elder’s actual facial identity by applying real-time face replacement.
-- **Fall Detection Model**: Employs motion analysis and deep learning (e.g., CNNs/LSTMs) to identify unusual movement patterns that indicate a fall.
-- **Real-Time Monitoring**: Capable of running on live video streams from surveillance or wearable cameras.
-- **Modular Implementation**: Separate components for face anonymization and fall detection, allowing independent use or integration.
 
 ---
 
@@ -73,10 +67,8 @@ The solution integrates:
 
 ## Applications
 - **Elderly Care Homes**: Monitoring without compromising the dignity and privacy of residents.  
-- **In-Home Care Systems**: Assisting family members in ensuring the safety of elderly relatives.  
-- **Healthcare Research**: Providing anonymized datasets for developing safer AI monitoring tools.
 
 ---
 
 ## Disclaimer
-This project is intended for **research and educational purposes** only. It should be deployed in compliance with privacy laws and ethical AI guidelines.
+This project is intended for **research and educational purposes** only. 
