@@ -38,11 +38,12 @@ The solution integrates:
 <img width="3840" height="2160" alt="image_4k (1)" src="https://github.com/user-attachments/assets/ce4375d0-1cc5-4e02-b3fb-8ec32848ecd0" />
 
 
----
+
 
 ---
 
 4. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
+### Video used : [https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s ](https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s)
 
 ---
 
