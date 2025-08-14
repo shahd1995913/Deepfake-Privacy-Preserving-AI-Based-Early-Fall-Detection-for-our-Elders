@@ -1,14 +1,17 @@
-# Deepfake Privacy-Preserving AI-Based Early Fall Detection for Our Elders
+# Deepfake Privacy-Preserving AI-Based Early Fall Detection for Our Elders 
+## Done by Shahed Al-khateeb 2025 AUGUST 
 
-## Overview
+### Overview
 This repository contains the implementation of an AI-based system designed to **preserve privacy** while performing **early fall detection** for elderly individuals.  
 The system leverages **deepfake-based face replacement techniques** to anonymize personal identities in video feeds, ensuring that privacy is maintained during real-time monitoring and analysis.
 
 The solution integrates:  
+
 1. **Face Anonymization via Deepfake Technology** – Replacing the detected faces with synthetic, non-identifiable faces while preserving head pose and expressions.
 
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/ocovPO5uaBY)
+| Target Image | Source Image | Final Result |
+|--------------|--------------|--------------|
+| <img src="https://github.com/user-attachments/assets/1826e58d-702f-4a86-bf6e-e7aa090cfe01" width="300" height="300" /> | <img src="https://github.com/user-attachments/assets/b602d57f-10ce-41af-b961-1403a139e617" width="300" height="300" /> | <img src="https://github.com/user-attachments/assets/8318969a-9b8d-4046-ade2-948891eac566" width="300" height="300" /> |
 
 2. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
 
