@@ -19,7 +19,20 @@ The solution integrates:
 <!-- https://huggingface.co/spaces/felixrosberg/face-swap
 --- -->
 
-2. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
+
+---
+2.  **The face was recognized using MediaPipe, and the emotional state was identified using DeepFace** – Utilizing MediaPipe, such a perception pipeline can be built as a graph.  
+<br>
+
+| Result 1 | Result 2 |
+|-------------------------|------------------------------------|
+|  <img src="https://github.com/user-attachments/assets/9a01065f-ac87-4613-9963-30a7a8d6ab0b" width="300" height="300">|<img src="https://github.com/user-attachments/assets/f735f1ca-bf58-4cbb-83d9-a36a28716079" width="300" height="300"> |
+
+
+
+---
+
+3. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention.
 
 ---
 
