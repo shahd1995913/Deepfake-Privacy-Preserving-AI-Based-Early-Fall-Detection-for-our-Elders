@@ -5,6 +5,12 @@
 This repository contains the implementation of an AI-based system designed to **preserve privacy** while performing **early fall detection** for elderly individuals.  
 The system leverages **deepfake-based face replacement techniques** to anonymize personal identities in video feeds, ensuring that privacy is maintained during real-time monitoring and analysis.
 
+
+<img width="681" height="681" alt="final" src="https://github.com/user-attachments/assets/203fc856-07ec-440e-befa-a1720ebaae9e" />
+
+
+
+
 The solution integrates:  
 
 1. **Face Anonymization via Deepfake Technology** – Replacing the detected faces with synthetic, non-identifiable faces while preserving head pose and expressions.
@@ -46,8 +52,10 @@ The solution integrates:
    
 ### Video used : [https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s ](https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s)
 
+![frame_4k (1)](https://github.com/user-attachments/assets/ae685203-141a-4d2f-8895-1c5abec88543)
 
-<img width="3840" height="2160" alt="image_4k (2)" src="https://github.com/user-attachments/assets/9d06e94e-15ad-4453-a777-884c6cffacd3" />
+
+
 
 <img width="1010" height="393" alt="download (2)" src="https://github.com/user-attachments/assets/398925d9-041d-4fba-8dd6-c82b54f6b637" />
 
