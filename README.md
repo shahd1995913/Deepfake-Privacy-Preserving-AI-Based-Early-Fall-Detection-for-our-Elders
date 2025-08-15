@@ -55,13 +55,9 @@ The solution integrates:
 ![frame_4k (1)](https://github.com/user-attachments/assets/ae685203-141a-4d2f-8895-1c5abec88543)
 
 
-
-
 <img width="1010" height="393" alt="download (2)" src="https://github.com/user-attachments/assets/398925d9-041d-4fba-8dd6-c82b54f6b637" />
 
 [![Video Demo](https://user-images.githubusercontent.com/xxxx/video_thumbnail.png)](https://github.com/shahd1995913/Deepfake-Privacy-Preserving-AI-Based-Early-Fall-Detection-for-our-Elders/blob/main/Early%20Fall%20Detection/annotated_output%20(1).mp4)
-
-
 
 ---
 
