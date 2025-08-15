@@ -51,7 +51,7 @@ The solution integrates:
 4. **Early Fall Detection using AI Models** – Utilizing deep learning techniques to detect and predict potential falls before or as they occur, allowing timely assistance and intervention with Mediapipe Pose.
    
 ### Video used : [https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s ](https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s)
-### Final result on video : ([https://www.youtube.com/watch?v=D3gsPxbe9RA&t=203s](https://drive.google.com/file/d/1tgmoUuX5dHhXT1OO6Sca-GaiLs55PtKd/view?usp=sharing))
+### Final result on video : ([Clicking on this link will display the content](https://drive.google.com/file/d/1tgmoUuX5dHhXT1OO6Sca-GaiLs55PtKd/view?usp=sharing))
 
 
 
